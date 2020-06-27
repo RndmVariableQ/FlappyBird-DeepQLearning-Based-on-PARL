@@ -1,5 +1,5 @@
 # FlappyBird-DeepQLearning-Based-on-PARL
-This is a Baidu Reinforcement Learning Camp Reproduction Project, Trying to Implement Reinforcement Learning on a tiny game: Flappy Bird
+This is a Baidu Reinforcement Learning Camp reproduction project, trying to implement Reinforcement Learning on a tiny game: Flappy Bird
 
 # Install:
 ### Dependencies
