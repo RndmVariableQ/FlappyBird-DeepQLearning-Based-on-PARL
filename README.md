@@ -17,6 +17,6 @@ pip install paddlepaddle
 
 Trained through 1300 episodes + 20 episodes of fine tuning
 - Highest Score: 611
-- 
+- Average Score: 198
 
 
