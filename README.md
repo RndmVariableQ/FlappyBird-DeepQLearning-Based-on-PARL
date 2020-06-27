@@ -4,9 +4,18 @@ This is a Baidu Reinforcement Learning Camp Reproduction Project, Trying to Impl
 # Install:
 ### Dependencies
 - Python 3.7+ (On **Windows**, PARL only supprorts the enviroment with python3.6+). 
-- [paddlepaddle>=1.6.1](https://github.com/PaddlePaddle/Paddle)
+- Parl 1.3.1 (https://github.com/PaddlePaddle/PARL)
+- Paddlepaddle 1.6.1 or higher (https://github.com/PaddlePaddle/Paddle)
+'''
+pip install parl
+pip install paddlepaddle'''
 - PyGame-Learning-Environment(PLE), needs to be installed locally https://github.com/ntasfi/PyGame-Learning-Environment
 
 # Demo:
-![Games](flappybird.gif?raw=True "Highest Score: ")
+![](flappybird.gif?raw=True)
+
+Trained through 1300 episodes + 20 episodes of fine tuning
+- Highest Score: 611
+- 
+
 
